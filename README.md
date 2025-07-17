@@ -1,55 +1,52 @@
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSquouX3qJzp6uZwleCOtTBppHfDKlN6vDHg&s" alt="HDFC Bank Logo" width="150"/>
+
 # 🏦 HDFC Bank - MySQL Final Project
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/fb/HDFC_Bank_Logo.svg" alt="HDFC Bank Logo" width="250" />
-</p>
-
----
 
 ## 🎯 Project Overview
 
 Welcome to the **HDFC Bank MySQL Project**!  
-This project models a **banking database system** for HDFC Bank — a leading private sector bank in India.
+This project models a complete **banking database system** for HDFC Bank — one of India's top private sector banks.
 
-It demonstrates MySQL capabilities to efficiently manage customer data, accounts, transactions, loans, and employee information with real-world banking operations.
+It showcases how MySQL can efficiently handle banking operations including customer management, transactions, loans, accounts, and employees.
 
 ---
 
 ## 🚀 Features
 
-- **Customer Management:** Store and update customer details, KYC data, and contact information.
-- **Account Management:** Manage multiple account types — Savings, Current, Fixed Deposits.
-- **Transaction Processing:** Track deposits, withdrawals, and transfers securely.
-- **Loan Management:** Process loan applications, approvals, and repayments.
-- **Employee Management:** Store employee details and roles within the bank.
+- **Customer Management**  
+  Store and manage customer details, contact information, and KYC documents.
+
+- **Account Management**  
+  Handle multiple types of accounts like **Savings**, **Current**, and **Fixed Deposits**.
+
+- **Transaction Processing**  
+  Track **deposits**, **withdrawals**, **transfers**, and **UPI payments** with integrity.
+
+- **Loan Management**  
+  Process **loan applications**, **approval workflows**, and **repayment tracking**.
+
+- **Employee Management**  
+  Store **employee details**, their **roles**, and branch assignments.
 
 ---
 
 ## 🎨 Visual Preview
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="Banking system animation" width="500" />
-</p>
+> _A sleek animation showing banking operations._
 
-*A sleek animation showing banking operations.*
+🖼️ _(Include actual animation or screenshot in final version if possible)_
 
 ---
 
 ## 🛠️ Technology Stack
 
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL** – Relational Database Management  
-- ![Workbench](https://img.icons8.com/color/48/000000/mysql-workbench.png) **MySQL Workbench** – Schema Design & Query Execution  
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png) **SQL** – Data Manipulation and Queries  
+| Component     | Description                             |
+|---------------|-----------------------------------------|
+| MySQL         | Relational Database Management System   |
+| MySQL Workbench | Schema Design & Query Execution      |
+| SQL           | Structured Query Language               |
 
 ---
 
 ## 📁 Project Structure
 
-```plaintext
-├── ER-Diagram.png            # Entity Relationship Diagram
-├── scripts/
-│   ├── create_tables.sql     # SQL script to create tables
-│   ├── insert_data.sql       # SQL script to insert sample data
-│   ├── queries.sql           # SQL script with sample queries and reports
-│   └── procedures.sql        # Stored procedures and triggers
-└── README.md                 # Project documentation (this file)
