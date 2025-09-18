@@ -51,8 +51,5 @@ The SQL script includes operations on the following **20+ tables**:
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/hdfc-bank-sql-phase2.git
+
 
